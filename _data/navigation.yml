@@ -21,6 +21,6 @@ main:
   #- title: "Guide"
   #  url: /markdown/
 
-  - title: "Services"
-    url: /Services/
+  - title: "Service"
+    url: /service/
     
