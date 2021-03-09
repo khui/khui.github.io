@@ -11,49 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Management Science, Beijing Jiaotong University, Beijing, China, 2010
+* M.S. in Computer Science, University of Chinese Academy of Sciences, Beijing, China, 2013
+* Ph.D in Computer Science, Saarland University and Max-Planck-Institue for Informatics, Germany, 2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019.04 - present: Applied Scientist, Amazon Alexa AI Search
+* 2017.11 - 2019.03: Data Scientist, Cluster of Excellence for Deep Learning in SAP SE
+* 2014.10 - 2015.02: Teaching Assistant, Graduate core course "information Retrieval and Data Mining"
+* 2012.01 - 2012.07: Research intern, Microsoft Research Asia
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
