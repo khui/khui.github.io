@@ -12,7 +12,7 @@ Conference Papers
 <b> [Simplified TinyBERT: Knowledge Distillation for Document Retrieval]()</b> <br>
 X. Chen, B. He, <b> Hui, Kai</b>, L. Sun, and Y. Su <br>
 <i> in ECIR 2021 </i> <br>
-[PDF](https://arxiv.org/pdf/2009.07531.pdf)
+[[PDF]](https://arxiv.org/pdf/2009.07531.pdf)
 
 <b> [BERT-QE: Contextualized Query Expansion for Document Re-ranking]()</b> <br>
 Z. Zheng, <b> Hui, Kai</b>, B. He, X. Han, L. Sun, and A. Yates <br>
