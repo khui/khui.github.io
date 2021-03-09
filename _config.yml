@@ -87,8 +87,10 @@ author:
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=VorTj3AAAAAJ&hl=en"
+  dblp             : "https://dblp.uni-trier.de/pid/37/10077.html"
   email            : "kai.hui.bj@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Kai-Hui"
+  semanticscholar   : "https://www.semanticscholar.org/author/Kai-Hui/47214884"
+  #researchgate     : "https://www.researchgate.net/profile/Kai-Hui"
   uri              :
   bitbucket        :
   codepen          :
@@ -115,7 +117,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  dblp             : "https://dblp.uni-trier.de/pid/37/10077.html"
 
 
 # Reading Files
