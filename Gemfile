@@ -24,4 +24,5 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
   gem 'hawkins'
+  gem 'minimal-mistakes-jekyll', :git => 'https://github.com/mmistakes/minimal-mistakes.git', :branch => 'color-skins'
 end
