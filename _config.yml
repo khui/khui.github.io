@@ -261,9 +261,9 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
-  - jekyll-theme
-    theme : "minimal-mistakes-jekyll"
-    minimal_mistakes_skin : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+  #- jekyll-theme
+  #  theme : "minimal-mistakes-jekyll"
+  minimal_mistakes_skin : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
