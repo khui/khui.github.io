@@ -15,6 +15,6 @@ author_profile: true
 
 ## Journals
 
-1. Standing reviewer of Transations on Information Systems (TOIS)
-2. Standing reviewer of The Journal of the Association for Information Science and Technology (JASIST) 
+1. Reviewer of Transations on Information Systems (TOIS)
+2. Reviewer of The Journal of the Association for Information Science and Technology (JASIST) 
 3. Editor board member of Information Processing & Management (IP&M)
