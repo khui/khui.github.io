@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-#locale                   : "en-US"
+locale                   : "en-US"
 title                    : "Kai Hui's homepage"
 title_separator          : "-"
 name                     : &name "Kai Hui"
@@ -261,8 +261,8 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
-  - jekyll-remote-theme
-    remote_theme : "mmistakes/minimal-mistakes"
+  - jekyll-theme
+    theme : "minimal-mistakes-jekyll"
     minimal_mistakes_skin : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 # mimic GitHub Pages with --safe
 whitelist:
