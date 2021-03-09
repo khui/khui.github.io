@@ -68,6 +68,7 @@ C. Li, Y. Sun, B. He, L. Wang, <b> Hui, Kai</b>, A. Yates, L. Sun, and J. Xu <br
 <b> [Sponsored search ad selection by keyword structure analysis]()</b> <br>
 <b>Hui, Kai</b>, B. Gao, B. He, and T.-j. Luo <br>
 <i> in European Conference on Information Retrieval </i> <br>
+[PDf](https://link.springer.com/content/pdf/10.1007%2F978-3-642-36973-5_20.pdf)
 
 <b> [Relevance weighting using within-document term statistics]()</b> <br>
 <b>Hui, Kai</b>, B. He, T. Luo, and B. Wang <br>
@@ -78,26 +79,32 @@ C. Li, Y. Sun, B. He, L. Wang, <b> Hui, Kai</b>, A. Yates, L. Sun, and J. Xu <br
 <i> in Conference on the Theory of Information Retrieval </i> <br>
 [PDf](https://www.researchgate.net/profile/Kai_Hui/publication/220959591_A_Comparative_Study_of_Pseudo_Relevance_Feedback_for_Ad-hoc_Retrieval/links/5b87e9bf299bf1d5a731d19e/A-Comparative-Study-of-Pseudo-Relevance-Feedback-for-Ad-hoc-Retrieval.pdf) 
 
-<b> [Characterizing question facets for complex answer retrieval]()</b> <br>
+<b> [Characterizing Question Facets for Complex Answer Retrieval]()</b> <br>
 S. MacAvaney, A. Yates, A. Cohan, L. Soldaini, <b>Hui, Kai</b>, N. Goharian, and O. Frieder <br>
 <i> in The 41st International ACM SIGIR Conference on Research & Development in Information Retrieval, 2018 </i> <br>
+[PDf](https://arxiv.org/pdf/1805.00791.pdf)
 
-<b> [Overcoming low-utility facets for complex answer retrieval]()</b> <br>
+<b> [Overcoming Low-Utility Facets for Complex Answer Retrieval]()</b> <br>
 S. MacAvaney, A. Yates, A. Cohan, L. Soldaini, <b>Hui, Kai</b>, N. Goharian, and O. Frieder <br>
 <i> Information Retrieval Journal, 2019</i> <br>
+[PDf](https://arxiv.org/pdf/1811.08772.pdf)
 
-<b> [Cluster hypothesis in low-cost ir evaluation with different document representations]()</b> <br>
+<b> [Cluster Hypothesis in Low-Cost IR Evaluation with Different Document Representations]()</b> <br>
 <b>Hui, Kai</b> and K. Berberich <br>
 <i> in Proceedings of the 25th International Conference Companion on World Wide Web, WWW 16 </i> <br>
+[PDf](https://www.researchgate.net/profile/Kai-Hui/publication/312636904_Cluster_Hypothesis_in_Low-Cost_IR_Evaluation_with_Different_Document_Representations/links/5b535191aca27217ffaefd0e/Cluster-Hypothesis-in-Low-Cost-IR-Evaluation-with-Different-Document-Representations.pdf)
 
-<b> [Selective labeling and incomplete label mitigation for low-cost evaluation]()</b> <br>
+<b> [Selective Labeling and Incomplete Label Mitigation for Low-Cost Evaluation]()</b> <br>
 <b>Hui, Kai</b> and K. Berberich <br>
 <i> in International Symposium on String Processing and Information Retrieval, SPIRE 15 </i> <br>
+[PDf](https://www.researchgate.net/profile/Kai-Hui/publication/283533153_Selective_Labeling_and_Incomplete_Label_Mitigation_for_Low-Cost_Evaluation/links/5b535162a6fdcc8dae381fb6/Selective-Labeling-and-Incomplete-Label-Mitigation-for-Low-Cost-Evaluation.pdf)
 
 <b> [A document-based neural relevance model for effective clinical decision support]()</b> <br>
 Y. Ran, B. He, <b>Hui, Kai</b>, J. Xu, and L. Sun <br>
 <i> in 2017 IEEE International Conference on Bioinformatics and Biomedicine (BIBM) </i> <br>
+[PDf](https://www.researchgate.net/profile/Kai-Hui/publication/321986925_A_document-based_neural_relevance_model_for_effective_clinical_decision_support/links/5b86b7b3a6fdcc5f8b70ef79/A-document-based-neural-relevance-model-for-effective-clinical-decision-support.pdf)
 
 <b> [Neural relevance model using similarities with elite documents for effective clinical decision support]()</b> <br>
 Y. Ran, B. He, <b>Hui, Kai</b>, J. Xu, and L. Sun <br>
 <i> International Journal of Data Mining and Bioinformatics, 2018 </i> <br>
+
