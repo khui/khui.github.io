@@ -106,6 +106,9 @@ Y. Ran, B. He, <b>Hui, Kai</b>, J. Xu, and L. Sun <br>
 <i> in ICTIR 2011 (Poster) </i> <br>
 [[PDF]](https://khui.github.io/files/publications/Hui2011_Chapter_AComparativeStudyOfPseudoRelev.pdf)
 
+<b> [GUCAS at TREC 2011 Microblog Track]()</b> <br>
+X. Zhang, <b>Hui, Kai</b>, B. He, T. Luo <br>
+<i> in TREC 2011 </i> <br>
 
 Workshop Papers
 =====
@@ -118,6 +121,11 @@ S. MacAvaney, <b> Hui, Kai</b>, and A. Yates <br>
 A. Yates and <b> Hui, Kai</b> <br>
 <i> in Neu-IR 17 Workshop at SIGIR 2017 </i> <br>
 [[PDF]](https://arxiv.org/pdf/1706.08746.pdf)
+
+<b> [Towards Robust & Reusable Evaluation for Novelty & Diversity]()</b> <br>
+<b> Hui, Kai</b> <br>
+<i> in PIKM@CIKM 2014 </i> <br>
+[[PDF]](https://khui.github.io/files/publications/diversificationLowCostEval-pikm2014.pdf)
 
 
 Journal Papers
