@@ -24,7 +24,7 @@ Work Experience
 
 Full CV
 ======
-[PDF](https://khui.github.io/files/kaihui_cv_full.pdf)
+[PDF](https://khui.github.io/files/cv/kaihui_cv_full.pdf)
 
 
   
