@@ -6,13 +6,13 @@ author_profile: true
 ---
 
 <b> [BERT-QE: Contextualized queryexpansion for document re-ranking]()</b> <br>
-<b> Z. Zheng, Hui, Kai* </b>, B. He, X. Han, L. Sun, and A. Yates <br>
+Z. Zheng, <b> Hui, Kai </b>, B. He, X. Han, L. Sun, and A. Yates <br>
 <i> in Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing </i> <br>
 [PDf](https://www.aclweb.org/anthology/2020.findings-emnlp.424) |
 
 
 <b> [Simplified TinyBERT: Knowledge distillation for document retrieval]()</b> <br>
-<b> X. Chen, B. He, Hui, Kai* </b>, L. Sun, and Y. Su <br>
+X. Chen, B. He, <b> Hui, Kai </b>, L. Sun, and Y. Su <br>
 <i> European Conference on Information Retrieval, ECIR 2021 (To Appear) </i> <br>
 
 <b> [PACRR: A position-aware neural IR model for relevance matching]()</b> <br>
