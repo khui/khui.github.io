@@ -7,7 +7,7 @@
 
 # Site Settings
 #locale                   : "en-US"
-title                    : "Dr. Kai Hui's homepage"
+title                    : "Kai Hui's homepage"
 title_separator          : "-"
 name                     : &name "Dr. Kai Hui"
 description              : &description "Applied Scientist at Amazon Alexa AI"
