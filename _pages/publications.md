@@ -12,10 +12,6 @@ author_profile: true
 
 {% include base_path %}
 
-Year of 2019
-======
-
-
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
