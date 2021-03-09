@@ -9,7 +9,7 @@
 #locale                   : "en-US"
 title                    : "Kai Hui's homepage"
 title_separator          : "-"
-name                     : &name "Dr. Kai Hui"
+name                     : &name "Kai Hui"
 description              : &description "Applied Scientist at Amazon Alexa AI"
 url                      : https://khui.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
