@@ -83,6 +83,16 @@ S. MacAvaney, <b> Hui, Kai</b>, and A. Yates <br>
 <i> in Neu-IR 17: The SIGIR 2017 Workshop on Neural Information Retrieval, 2017 </i> <br>
 [PDF](https://arxiv.org/abs/1707.00189v1)
 
+<b> [Cluster Hypothesis in Low-Cost IR Evaluation with Different Document Representations]()</b> <br>
+<b>Hui, Kai</b> and K. Berberich <br>
+<i> in Proceedings of the 25th International Conference Companion on World Wide Web, WWW 16 </i> <br>
+[PDF](https://www.researchgate.net/profile/Kai-Hui/publication/312636904_Cluster_Hypothesis_in_Low-Cost_IR_Evaluation_with_Different_Document_Representations/links/5b535191aca27217ffaefd0e/Cluster-Hypothesis-in-Low-Cost-IR-Evaluation-with-Different-Document-Representations.pdf)
+
+<b> [Selective Labeling and Incomplete Label Mitigation for Low-Cost Evaluation]()</b> <br>
+<b>Hui, Kai</b> and K. Berberich <br>
+<i> in International Symposium on String Processing and Information Retrieval, SPIRE 15 </i> <br>
+[PDF](https://www.researchgate.net/profile/Kai-Hui/publication/283533153_Selective_Labeling_and_Incomplete_Label_Mitigation_for_Low-Cost_Evaluation/links/5b535162a6fdcc8dae381fb6/Selective-Labeling-and-Incomplete-Label-Mitigation-for-Low-Cost-Evaluation.pdf)
+
 <b> [Sponsored Search Ad Selection by Keyword Structure Analysis]()</b> <br>
 <b>Hui, Kai</b>, B. Gao, B. He, and T.-j. Luo <br>
 <i> in European Conference on Information Retrieval, 2013 </i> <br>
@@ -100,15 +110,7 @@ S. MacAvaney, <b> Hui, Kai</b>, and A. Yates <br>
 
 
 
-<b> [Cluster Hypothesis in Low-Cost IR Evaluation with Different Document Representations]()</b> <br>
-<b>Hui, Kai</b> and K. Berberich <br>
-<i> in Proceedings of the 25th International Conference Companion on World Wide Web, WWW 16 </i> <br>
-[PDF](https://www.researchgate.net/profile/Kai-Hui/publication/312636904_Cluster_Hypothesis_in_Low-Cost_IR_Evaluation_with_Different_Document_Representations/links/5b535191aca27217ffaefd0e/Cluster-Hypothesis-in-Low-Cost-IR-Evaluation-with-Different-Document-Representations.pdf)
 
-<b> [Selective Labeling and Incomplete Label Mitigation for Low-Cost Evaluation]()</b> <br>
-<b>Hui, Kai</b> and K. Berberich <br>
-<i> in International Symposium on String Processing and Information Retrieval, SPIRE 15 </i> <br>
-[PDF](https://www.researchgate.net/profile/Kai-Hui/publication/283533153_Selective_Labeling_and_Incomplete_Label_Mitigation_for_Low-Cost_Evaluation/links/5b535162a6fdcc8dae381fb6/Selective-Labeling-and-Incomplete-Label-Mitigation-for-Low-Cost-Evaluation.pdf)
 
 
 
