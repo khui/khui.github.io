@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Management Science, Beijing Jiaotong University, Beijing, China, 2010
 * M.S. in Computer Science, University of Chinese Academy of Sciences, Beijing, China, 2013
-* Ph.D in Computer Science, Saarland University and Max-Planck-Institue for Informatics, Germany, 2017
+* Ph.D in Computer Science, Saarland University and Max-Planck-Institute for Informatics, Germany, 2017
 
 Work experience
 ======
