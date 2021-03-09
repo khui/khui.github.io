@@ -58,7 +58,7 @@ S. MacAvaney, A. Yates, A. Cohan, L. Soldaini, <b>Hui, Kai</b>, N. Goharian, and
 <b> [Transitivity, Time Consumption, and Quality of Preference Judgments in Crowdsourcing]()</b> <br>
 <b> Hui, Kai</b> and K. Berberich <br>
 <i> in ECIR 2017 </i> <br>
-[[PDF]](https://khui.github.io/files/publications/empirical-ecir17.pdf) [[Slide]](https://khui.github.io/files/slides/empirical-ecir17.pdf) [Poster](https://khui.github.io/files/slides/empirical-ecir17-poster.pdf) [[Data]](https://khui.github.io/files/data/ecir17empirical.tar.gz)
+[[PDF]](https://khui.github.io/files/publications/empirical-ecir17.pdf) [[Slide]](https://khui.github.io/files/slides/empirical-ecir17.pdf) [[Poster]](https://khui.github.io/files/slides/empirical-ecir17-poster.pdf) [[Data]](https://khui.github.io/files/data/ecir17empirical.tar.gz)
 
 
 <b> [A document-based neural relevance model for effective clinical decision support]()</b> <br>
