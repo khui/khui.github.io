@@ -45,11 +45,6 @@ S. MacAvaney, A. Yates, A. Cohan, L. Soldaini, <b>Hui, Kai</b>, N. Goharian, and
 <i> in SIGIR 2018 (Short paper) </i> <br>
 [[PDF]](https://arxiv.org/pdf/1805.00791.pdf)
 
-<b> [Overcoming Low-Utility Facets for Complex Answer Retrieval]()</b> <br>
-S. MacAvaney, A. Yates, A. Cohan, L. Soldaini, <b>Hui, Kai</b>, N. Goharian, and O. Frieder <br>
-<i> in ProfS/KG4IR/Data:Search@SIGIR 2018 </i> <br>
-[[PDF]](http://ceur-ws.org/Vol-2127/paper1-kg4ir.pdf)
-
 <b> [PACRR: A Position-Aware Neural IR Model for Relevance Matching]()</b> <br>
 <b> Hui, Kai</b>, A. Yates, K. Berberich, and G. de Melo <br>
 <i> in EMNLP 17 </i> <br>
@@ -105,7 +100,7 @@ Y. Ran, B. He, <b>Hui, Kai</b>, J. Xu, and L. Sun <br>
 [[PDF]](https://khui.github.io/files/publications/selectivelabeling-spire15.pdf) [[Slide]](https://khui.github.io/files/slides/selectivelabeling-spire15.pdf)
 
 <b> [Sponsored Search Ad Selection by Keyword Structure Analysis]()</b> <br>
-<b>Hui, Kai</b>, B. Gao, B. He, and T.-j. Luo <br>
+<b>Hui, Kai</b>, B. Gao, B. He, and T. Luo <br>
 <i> in ECIR 2013 </i> <br>
 [[PDF]](https://khui.github.io/files/publications/sponsorsearchAdSelection-ecir13.pdf) [[Slide]](https://khui.github.io/files/slides/sponsorsearchAdSelection-ecir13.pdf)
 
@@ -126,10 +121,21 @@ X. Zhang, <b>Hui, Kai</b>, B. He, T. Luo <br>
 
 Workshop Papers
 =====
+<b> [Overcoming Low-Utility Facets for Complex Answer Retrieval]()</b> <br>
+S. MacAvaney, A. Yates, A. Cohan, L. Soldaini, <b>Hui, Kai</b>, N. Goharian, and O. Frieder <br>
+<i> in ProfS/KG4IR/Data:Search@SIGIR 2018 </i> <br>
+[[PDF]](http://ceur-ws.org/Vol-2127/paper1-kg4ir.pdf)
+
 <b> [An Approach for Weakly-Supervised Deep Information Retrieval]()</b> <br>
 S. MacAvaney, <b> Hui, Kai</b>, and A. Yates <br>
 <i> in Neu-IR 17 Workshop at SIGIR 2017 </i> <br>
 [[PDF]](https://arxiv.org/pdf/1707.00189v1.pdf)
+
+<b> [RE-PACRR: A Context and Density-Aware Neural Information Retrieval Model]()</b> <br>
+<b> Hui, Kai</b>, A. Yates, K. Berberich and G. de Melo<br>
+<i> in Neu-IR 17 Workshop at SIGIR 2017 </i> <br>
+[[PDF]](https://www.researchgate.net/profile/Andrew-Yates-4/publication/318107005_RE-PACRR_A_Context_and_Density-Aware_Neural_Information_Retrieval_Model/links/595cab10aca272f3c08f71bd/RE-PACRR-A-Context-and-Density-Aware-Neural-Information-Retrieval-Model.pdf) [[Slide]](https://khui.github.io/slides/repacrr-neuir17.pdf)
+
 
 <b> [DE-PACRR: Exploring Layers Inside the PACRR Model]()</b> <br>
 A. Yates and <b> Hui, Kai</b> <br>
