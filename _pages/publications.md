@@ -28,7 +28,7 @@ S. MacAvaney, A. Yates, <b> Hui, Kai</b>, and O. Frieder <br>
 <b> [Co-PACRR: A Context-Aware Neural IR Model for Ad-hoc Retrieval]()</b> <br>
 <b> Hui, Kai</b>, A. Yates, K. Berberich, and G. de Melo <br>
 <i> in WSDM 18 </i> <br>
-[[PDF]](https://arxiv.org/pdf/1706.10192.pdf) [[Slide]](https://khui.github.io/files/slides/repacrr-neuir17.pdf) [[Code]](https://github.com/khui/copacrr) 
+[[PDF]](https://arxiv.org/pdf/1706.10192.pdf) [[Code]](https://github.com/khui/copacrr) 
 
 <b> [NPRF: A Neural Pseudo Relevance Feedback Framework for Ad-hoc Information Retrieval]()</b> <br>
 C. Li, Y. Sun, B. He, L. Wang, <b> Hui, Kai</b>, A. Yates, L. Sun, and J. Xu <br>
