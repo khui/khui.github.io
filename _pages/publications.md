@@ -17,23 +17,23 @@ X. Chen, B. He, <b> Hui, Kai</b>, L. Sun, and Y. Su <br>
 <b> [BERT-QE: Contextualized Query Expansion for Document Re-ranking]()</b> <br>
 Z. Zheng, <b> Hui, Kai</b>, B. He, X. Han, L. Sun, and A. Yates <br>
 <i> in EMNLP 2020: Findings </i> <br>
-[[PDF]](https://www.aclweb.org/anthology/2020.findings-emnlp.424) [[Code]](https://github.com/zh-zheng/BERT-QE)
+[[PDF]](https://www.aclweb.org/anthology/2020.findings-emnlp.424.pdf) [[Code]](https://github.com/zh-zheng/BERT-QE)
 
 
 <b> [Content-Based Weak Supervision for Ad-Hoc Re-Ranking]()</b> <br>
 S. MacAvaney, A. Yates, <b> Hui, Kai</b>, and O. Frieder <br>
 <i> in SIGIR 19 (Short paper) </i> <br>
-[[PDF]](https://arxiv.org/abs/1707.00189v3)
+[[PDF]](https://arxiv.org/pdf/1707.00189v3.pdf)
 
 <b> [Co-PACRR: A Context-Aware Neural IR Model for Ad-hoc Retrieval]()</b> <br>
 <b> Hui, Kai</b>, A. Yates, K. Berberich, and G. de Melo <br>
 <i> in WSDM 18 </i> <br>
-[[PDF]](https://arxiv.org/abs/1706.10192) [[Slide]](https://khui.github.io/files/slides/repacrr-neuir17.pdf) [[Code]](https://github.com/khui/copacrr) 
+[[PDF]](https://arxiv.org/pdf/1706.10192.pdf) [[Slide]](https://khui.github.io/files/slides/repacrr-neuir17.pdf) [[Code]](https://github.com/khui/copacrr) 
 
 <b> [NPRF: A Neural Pseudo Relevance Feedback Framework for Ad-hoc Information Retrieval]()</b> <br>
 C. Li, Y. Sun, B. He, L. Wang, <b> Hui, Kai</b>, A. Yates, L. Sun, and J. Xu <br>
 <i> in EMNLP 2018 </i> <br>
-[[PDF]](https://arxiv.org/abs/1810.12936) 
+[[PDF]](https://arxiv.org/pdf/1810.12936.pdf) 
 
 <b> [TDNN: A Two-stage Deep Neural Network for Prompt-independent Automated Essay Scoring]()</b> <br>
 C. Jin, B. He, <b> Hui, Kai</b>, and L. Sun <br>
@@ -48,7 +48,7 @@ S. MacAvaney, A. Yates, A. Cohan, L. Soldaini, <b>Hui, Kai</b>, N. Goharian, and
 <b> [PACRR: A Position-Aware Neural IR Model for Relevance Matching]()</b> <br>
 <b> Hui, Kai</b>, A. Yates, K. Berberich, and G. de Melo <br>
 <i> in EMNLP 17 </i> <br>
-[[PDF]](http://www.aclweb.org/anthology/D17-1111) [[Slide]](https://khui.github.io/files/slides/pacrr-emnlp17.pdf) [[Code]](https://github.com/khui/copacrr) 
+[[PDF]](https://www.aclweb.org/anthology/D17-1110.pdf) [[Slide]](https://khui.github.io/files/slides/pacrr-emnlp17.pdf) [[Code]](https://github.com/khui/copacrr) 
 
 <b> [Position-Aware Representations for Relevance Matching in Neural Information Retrieval]()</b> <br>
 <b> Hui, Kai</b>, A. Yates, K. Berberich, and G. de Melo <br>
