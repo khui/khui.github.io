@@ -28,7 +28,7 @@ S. MacAvaney, A. Yates, <b> Hui, Kai</b>, and O. Frieder <br>
 <b> [Co-PACRR: A Context-Aware Neural IR Model for Ad-hoc Retrieval]()</b> <br>
 <b> Hui, Kai</b>, A. Yates, K. Berberich, and G. de Melo <br>
 <i> in WSDM 18 </i> <br>
-[[PDF]](https://arxiv.org/pdf/1706.10192.pdf) [[Code]](https://github.com/khui/copacrr) 
+[[PDF]](https://arxiv.org/pdf/1706.10192.pdf) [[Poster]](https://khui.github.io/files/slides/wsdm18_poster.pdf) [[Code]](https://github.com/khui/copacrr) 
 
 <b> [NPRF: A Neural Pseudo Relevance Feedback Framework for Ad-hoc Information Retrieval]()</b> <br>
 C. Li, Y. Sun, B. He, L. Wang, <b> Hui, Kai</b>, A. Yates, L. Sun, and J. Xu <br>
@@ -53,7 +53,7 @@ S. MacAvaney, A. Yates, A. Cohan, L. Soldaini, <b>Hui, Kai</b>, N. Goharian, and
 <b> [Position-Aware Representations for Relevance Matching in Neural Information Retrieval]()</b> <br>
 <b> Hui, Kai</b>, A. Yates, K. Berberich, and G. de Melo <br>
 <i> in WWW 17 (Poster) </i> <br>
-[[PDF]](https://khui.github.io/files/publications/simmat-www17.pdf) [[Poster]](https://khui.github.io/files/slides/testclusterhypothesis-www16poster.pdf)
+[[PDF]](https://khui.github.io/files/publications/simmat-www17.pdf)
 
 <b> [Transitivity, Time Consumption, and Quality of Preference Judgments in Crowdsourcing]()</b> <br>
 <b> Hui, Kai</b> and K. Berberich <br>
