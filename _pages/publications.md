@@ -134,7 +134,7 @@ S. MacAvaney, <b> Hui, Kai</b>, and A. Yates <br>
 <b> [RE-PACRR: A Context and Density-Aware Neural Information Retrieval Model]()</b> <br>
 <b> Hui, Kai</b>, A. Yates, K. Berberich and G. de Melo<br>
 <i> in Neu-IR 17 Workshop at SIGIR 2017 </i> <br>
-[[PDF]](https://www.researchgate.net/profile/Andrew-Yates-4/publication/318107005_RE-PACRR_A_Context_and_Density-Aware_Neural_Information_Retrieval_Model/links/595cab10aca272f3c08f71bd/RE-PACRR-A-Context-and-Density-Aware-Neural-Information-Retrieval-Model.pdf) [[Slide]](https://khui.github.io/slides/repacrr-neuir17.pdf)
+[[PDF]](https://arxiv.org/pdf/1706.10192v1.pdf) [[Slide]](https://khui.github.io/files/slides/repacrr-neuir17.pdf)
 
 
 <b> [DE-PACRR: Exploring Layers Inside the PACRR Model]()</b> <br>
