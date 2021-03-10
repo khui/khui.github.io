@@ -17,10 +17,10 @@ Education
 
 Work Experience
 ======
-* 2019.04 - present: Applied Scientist, Amazon Alexa AI Search
-* 2017.11 - 2019.03: Data Scientist, Cluster of Excellence for Deep Learning in SAP SE
-* 2014.10 - 2015.02: Teaching Assistant, Graduate core course "Information Retrieval and Data Mining"
 * 2012.01 - 2012.07: Research intern, Microsoft Research Asia
+* 2014.10 - 2015.02: Teaching Assistant, Graduate core course "Information Retrieval and Data Mining"
+* 2017.11 - 2019.03: Data Scientist, Cluster of Excellence for Deep Learning in SAP SE
+* 2019.04 - present: Applied Scientist, Amazon Alexa AI Search
 
 Full CV
 ======
