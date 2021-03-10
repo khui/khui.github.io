@@ -45,6 +45,11 @@ S. MacAvaney, A. Yates, A. Cohan, L. Soldaini, <b>Hui, Kai</b>, N. Goharian, and
 <i> in SIGIR 2018 (Short paper) </i> <br>
 [[PDF]](https://arxiv.org/pdf/1805.00791.pdf)
 
+<b> [Overcoming Low-Utility Facets for Complex Answer Retrieval]()</b> <br>
+S. MacAvaney, A. Yates, A. Cohan, L. Soldaini, <b>Hui, Kai</b>, N. Goharian, and O. Frieder <br>
+<i> in ProfS/KG4IR/Data:Search@SIGIR 2018 </i> <br>
+[[PDF]](http://ceur-ws.org/Vol-2127/paper1-kg4ir.pdf)
+
 <b> [PACRR: A Position-Aware Neural IR Model for Relevance Matching]()</b> <br>
 <b> Hui, Kai</b>, A. Yates, K. Berberich, and G. de Melo <br>
 <i> in EMNLP 17 </i> <br>
@@ -60,6 +65,15 @@ S. MacAvaney, A. Yates, A. Cohan, L. Soldaini, <b>Hui, Kai</b>, N. Goharian, and
 <i> in ECIR 2017 </i> <br>
 [[PDF]](https://khui.github.io/files/publications/empirical-ecir17.pdf) [[Slide]](https://khui.github.io/files/slides/empirical-ecir17.pdf) [[Poster]](https://khui.github.io/files/slides/empirical-ecir17-poster.pdf) [[Data]](https://khui.github.io/files/data/ecir17empirical.tar.gz)
 
+<b> [Contextualized PACRR for Complex Answer Retrieval]()</b> <br>
+S. MacAvaney, A. Yates, <b> Hui, Kai</b> <br>
+<i> in TREC 2017 </i> <br>
+[[PDF]](https://trec.nist.gov/pubs/trec26/papers/MPIID5-CAR.pdf)
+
+<b> [Dealing with Incomplete Judgments in Cascade Measures]()</b> <br>
+<b> Hui, Kai</b>, K. Berberich, and I. Mele<br>
+<i> in ICTIR 2017 </i> <br>
+[[PDF]](https://khui.github.io/files/publications/ictir17-full.pdf) [[Slide]](https://khui.github.io/files/slides/ictir17.pdf)
 
 <b> [A document-based neural relevance model for effective clinical decision support]()</b> <br>
 Y. Ran, B. He, <b>Hui, Kai</b>, J. Xu, and L. Sun <br>
