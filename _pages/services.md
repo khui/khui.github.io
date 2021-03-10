@@ -14,7 +14,7 @@ author_profile: true
 4. **2018**: SIGIR
 5. **2011**: CIKM
 
-## Journals
+## Journal Reviewer
 
 1. Reviewer of Transations on Information Systems (TOIS)
 2. Reviewer of The Journal of the Association for Information Science and Technology (JASIST) 
