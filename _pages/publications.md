@@ -145,7 +145,7 @@ A. Yates and <b> Hui, Kai</b> <br>
 <b> [Towards Robust & Reusable Evaluation for Novelty & Diversity]()</b> <br>
 <b> Hui, Kai</b> <br>
 <i> in PIKM@CIKM 2014 </i> <br>
-[[PDF]](https://khui.github.io/files/publications/diversificationLowCostEval-pikm2014.pdf)
+[[PDF]](https://khui.github.io/files/publications/diversificationLowCostEval-pikm2014.pdf) [[Slide]](https://khui.github.io/files/slides/pikm.pdf)
 
 
 Journal Papers
