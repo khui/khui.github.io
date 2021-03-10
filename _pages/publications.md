@@ -73,7 +73,7 @@ S. MacAvaney, A. Yates, <b> Hui, Kai</b> <br>
 <b> [A document-based neural relevance model for effective clinical decision support]()</b> <br>
 Y. Ran, B. He, <b>Hui, Kai</b>, J. Xu, and L. Sun <br>
 <i> in BIBM 2017 </i> <br>
-[[PDF]](https://www.researchgate.net/profile/Kai-Hui/publication/321986925_A_document-based_neural_relevance_model_for_effective_clinical_decision_support/links/5b86b7b3a6fdcc5f8b70ef79/A-document-based-neural-relevance-model-for-effective-clinical-decision-support.pdf)
+[[PDF]](https://khui.github.io/files/publications/BIBM17.pdf)
 
 
 <b> [Low-Cost Preference Judgment via Ties]()</b> <br>
