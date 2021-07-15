@@ -10,7 +10,7 @@ Conference Papers
 ======
 <b> [Contextualized Offline Relevance Weighting for Efficient and Effective Neural Retrieval]()</b> <br>
 X. Chen, B. He, <b> Hui, Kai</b>, Y. Wang, L. Sun, and Y. Sun <br>
-<i> in SIGIR 2021 (<b> best short paper award </b>) </i> <br>
+<i> in SIGIR 2021 (<b>best short paper award</b>) </i> <br>
 [[PDF]](https://khui.github.io/files/publications/contextualized-sigir21.pdf)
 
 
