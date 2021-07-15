@@ -8,9 +8,14 @@ author_profile: true
 
 Conference Papers
 ======
+<b> [Contextualized Offline Relevance Weighting for Efficient and Effective Neural Retrieval]()</b> <br>
+X. Chen, B. He, <b> Hui, Kai</b>, Y. Wang, L. Sun, and Y. Sun <br>
+<i> in SIGIR 2021 (<b> best short paper award </b>) </i> <br>
+[[PDF]](https://khui.github.io/files/publications/contextualized-sigir21.pdf)
+
 
 <b> [Simplified TinyBERT: Knowledge Distillation for Document Retrieval]()</b> <br>
-X. Chen, B. He, <b> Hui, Kai</b>, L. Sun, and Y. Su <br>
+X. Chen, B. He, <b> Hui, Kai</b>, L. Sun, and Y. Sun <br>
 <i> in ECIR 2021 (Short paper) </i> <br>
 [[PDF]](https://arxiv.org/pdf/2009.07531.pdf)
 
@@ -150,6 +155,11 @@ A. Yates and <b> Hui, Kai</b> <br>
 
 Journal Papers
 ======
+<b> [Contextualized query expansion via unsupervised chunk selection for text retrieval]()</b> <br>
+Z. Zheng, <b> Hui, Kai</b>, B. He, X. Han, L. Sun, and A. Yates <br>
+<i> Information Processing & Management </i> <br>
+[[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0306457321001576)
+
 <b> [Overcoming Low-Utility Facets for Complex Answer Retrieval]()</b> <br>
 S. MacAvaney, A. Yates, A. Cohan, L. Soldaini, <b>Hui, Kai</b>, N. Goharian, and O. Frieder <br>
 <i> Information Retrieval Journal, 2019</i> <br>
