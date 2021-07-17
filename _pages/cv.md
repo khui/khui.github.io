@@ -19,7 +19,8 @@ Education
 
 Work Experience
 ======
-* 2019.04 - present: Machine Learning Scientist, Amazon Alexa AI Search
+* 2021.07 - present: Senior Software Engineer, Google AI
+* 2019.04 - 2021.06: Machine Learning Scientist, Amazon Alexa AI
 * 2017.11 - 2019.03: Data Scientist, Cluster of Excellence for Deep Learning in SAP SE
 * 2014.10 - 2015.02: Teaching Assistant, Saarland University
 * 2013.07 - 2017.10: Doctoral Researcher, Department of Databases and Information Systems (D5) at MPII
