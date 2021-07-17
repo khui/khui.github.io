@@ -157,7 +157,7 @@ Journal Papers
 ======
 <b> [Contextualized query expansion via unsupervised chunk selection for text retrieval]()</b> <br>
 Z. Zheng, <b> Hui, Kai</b>, B. He, X. Han, L. Sun, and A. Yates <br>
-<i> Information Processing & Management </i> <br>
+<i> Information Processing & Management, 2021</i> <br>
 [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0306457321001576)
 
 <b> [Overcoming Low-Utility Facets for Complex Answer Retrieval]()</b> <br>
