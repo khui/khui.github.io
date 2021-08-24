@@ -7,12 +7,12 @@ author_profile: true
 
 
 ## Program Committee
-
-1. **2021**: SIGIR, ACL, EMNLP, AAAI, CIKM, ACM KDD (Applied Data Science Track), WSDM, NAACL-HLT, EACL
-2. **2020**: SIGIR, ACL, EMNLP, AAAI, CIKM, ICTIR, AACL-IJCNLP
-3. **2019**: SIGIR, ACL, EMNLP
-4. **2018**: SIGIR
-5. **2011**: CIKM
+1. **2022**: AAAI, WSDM
+2. **2021**: SIGIR, ACL, EMNLP, AAAI, CIKM, ACM KDD (Applied Data Science Track), WSDM, NAACL-HLT, EACL
+3. **2020**: SIGIR, ACL, EMNLP, AAAI, CIKM, ICTIR, AACL-IJCNLP
+4. **2019**: SIGIR, ACL, EMNLP
+5. **2018**: SIGIR
+6. **2011**: CIKM
 
 ## Journal Reviewer
 
