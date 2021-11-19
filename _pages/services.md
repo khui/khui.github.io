@@ -7,7 +7,7 @@ author_profile: true
 
 
 ## Program Committee
-1. **2022**: AAAI, WSDM
+1. **2022**: AAAI, WSDM, ACL (ARR)
 2. **2021**: SIGIR, ACL, EMNLP, AAAI, CIKM, ACM KDD (Applied Data Science Track), WSDM, NAACL-HLT, EACL
 3. **2020**: SIGIR, ACL, EMNLP, AAAI, CIKM, ICTIR, AACL-IJCNLP
 4. **2019**: SIGIR, ACL, EMNLP
