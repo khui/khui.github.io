@@ -10,7 +10,8 @@ Conference Papers
 ======
 <b> [Question Answering using Web Lists]()</b> <br>
 A. R. Katti, <b> Hui, Kai</b>, A. de Gispert, and H. Fuerstenau <br>
-<i> in CIKM 2021 (Short paper, to appear) </i> <br>
+<i> in CIKM 2021 (Short paper) </i> <br>
+[[PDF]](https://khui.github.io/files/publications/weblists_cikm21.pdf)
 
 
 <b> [Contextualized Offline Relevance Weighting for Efficient and Effective Neural Retrieval]()</b> <br>
