@@ -8,6 +8,12 @@ author_profile: true
 
 Conference Papers
 ======
+<b> [ED2LM: Encoder-Decoder to Language Model for Faster Document Re-ranking Inference]()</b> <br>
+<b> Hui, Kai</b>,  Honglei Zhuang, Tao Chen, Zhen Qin, Jing Lu, Dara Bahri, Ji Ma, Jai Gupta, Cicero Nogueira dos Santos, Yi Tay, Donald Metzler<br>
+<i> in ACL: Findings 2022 (to appear) </i> <br>
+[[PDF]](https://openreview.net/forum?id=TqUzRS4WNQK)
+
+
 <b> [Incorporating Ranking Context for End-to-End BERT Re-ranking]()</b> <br>
 Xiaoyang Chen, <b> Hui, Kai</b>, Ben He, Xianpei Han, Le Sun, Zheng Ye<br>
 <i> in ECIR 2021 (to appear) </i> <br>
