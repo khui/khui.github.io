@@ -25,6 +25,10 @@ Yi Tay, Vinh Q Tran, Mostafa Dehghani, Jianmo Ni, Dara Bahri, Harsh Mehta, Zhen 
 <i> arXiv preprint</i> <br>
 [[PDF]](https://arxiv.org/pdf/2202.06991.pdf)
 
+<b> [Ext5: Towards extreme multi-task scaling for transfer learning]()</b> <br>
+Vamsi Aribandi, Yi Tay, Tal Schuster, Jinfeng Rao, Huaixiu Steven Zheng, Sanket Vaibhav Mehta, Honglei Zhuang, Vinh Q. Tran, Dara Bahri, Jianmo Ni, Jai Gupta, <b>Kai Hui</b>, Sebastian Ruder, Donald Metzler<br>
+<i> in ICLR 2022 (to appear) </i> <br>
+[[PDF]](https://openreview.net/pdf?id=Vzh1BFUCiIX)
 
 <b> [Question Answering using Web Lists]()</b> <br>
 A. R. Katti, <b> Hui, Kai</b>, A. de Gispert, and H. Fuerstenau <br>
