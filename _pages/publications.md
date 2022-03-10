@@ -8,11 +8,6 @@ author_profile: true
 
 Conference Papers
 ======
-<b> [Transformer Memory as a Differentiable Search Index]()</b> <br>
-Yi Tay, Vinh Q Tran, Mostafa Dehghani, Jianmo Ni, Dara Bahri, Harsh Mehta, Zhen Qin, <b> Hui, Kai</b>, Zhe Zhao, Jai Gupta, Tal Schuster, William W Cohen, Donald Metzler<br>
-<i> arXiv preprint</i> <br>
-[[PDF]](https://arxiv.org/pdf/2202.06991.pdf)
-
 <b> [ED2LM: Encoder-Decoder to Language Model for Faster Document Re-ranking Inference]()</b> <br>
 <b> Hui, Kai</b>,  Honglei Zhuang, Tao Chen, Zhen Qin, Jing Lu, Dara Bahri, Ji Ma, Jai Gupta, Cicero Nogueira dos Santos, Yi Tay, Donald Metzler<br>
 <i> in ACL: Findings 2022 (to appear) </i> <br>
@@ -23,6 +18,12 @@ Yi Tay, Vinh Q Tran, Mostafa Dehghani, Jianmo Ni, Dara Bahri, Harsh Mehta, Zhen 
 Xiaoyang Chen, <b> Hui, Kai</b>, Ben He, Xianpei Han, Le Sun, Zheng Ye<br>
 <i> in ECIR 2021 (to appear) </i> <br>
 [[PDF]](https://khui.github.io/files/publications/cobert_ecir22.pdf)
+
+
+<b> [Transformer Memory as a Differentiable Search Index]()</b> <br>
+Yi Tay, Vinh Q Tran, Mostafa Dehghani, Jianmo Ni, Dara Bahri, Harsh Mehta, Zhen Qin, <b> Hui, Kai</b>, Zhe Zhao, Jai Gupta, Tal Schuster, William W Cohen, Donald Metzler<br>
+<i> arXiv preprint</i> <br>
+[[PDF]](https://arxiv.org/pdf/2202.06991.pdf)
 
 
 <b> [Question Answering using Web Lists]()</b> <br>
