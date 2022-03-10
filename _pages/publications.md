@@ -16,7 +16,7 @@ Conference Papers
 
 <b> [Incorporating Ranking Context for End-to-End BERT Re-ranking]()</b> <br>
 Xiaoyang Chen, <b> Hui, Kai</b>, Ben He, Xianpei Han, Le Sun, Zheng Ye<br>
-<i> in ECIR 2021 (to appear) </i> <br>
+<i> in ECIR 2022 (to appear) </i> <br>
 [[PDF]](https://khui.github.io/files/publications/cobert_ecir22.pdf)
 
 
