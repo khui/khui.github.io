@@ -26,7 +26,7 @@ Yi Tay, Vinh Q Tran, Mostafa Dehghani, Jianmo Ni, Dara Bahri, Harsh Mehta, Zhen 
 [[PDF]](https://arxiv.org/pdf/2202.06991.pdf)
 
 <b> [Ext5: Towards extreme multi-task scaling for transfer learning]()</b> <br>
-Vamsi Aribandi, Yi Tay, Tal Schuster, Jinfeng Rao, Huaixiu Steven Zheng, Sanket Vaibhav Mehta, Honglei Zhuang, Vinh Q. Tran, Dara Bahri, Jianmo Ni, Jai Gupta, <b>Kai Hui</b>, Sebastian Ruder, Donald Metzler<br>
+Vamsi Aribandi, Yi Tay, Tal Schuster, Jinfeng Rao, Huaixiu Steven Zheng, Sanket Vaibhav Mehta, Honglei Zhuang, Vinh Q. Tran, Dara Bahri, Jianmo Ni, Jai Gupta, <b>Hui, Kai</b>, Sebastian Ruder, Donald Metzler<br>
 <i> in ICLR 2022 (to appear) </i> <br>
 [[PDF]](https://openreview.net/pdf?id=Vzh1BFUCiIX)
 
@@ -38,7 +38,7 @@ A. R. Katti, <b> Hui, Kai</b>, A. de Gispert, and H. Fuerstenau <br>
 
 <b> [Contextualized Offline Relevance Weighting for Efficient and Effective Neural Retrieval]()</b> <br>
 X. Chen, B. He, <b> Hui, Kai</b>, Y. Wang, L. Sun, and Y. Sun <br>
-<i> in SIGIR 2021 (<b>best short paper award</b>) </i> <br>
+<i> in SIGIR 2021 (<b>Best short paper award</b>) </i> <br>
 [[PDF]](https://khui.github.io/files/publications/contextualized-sigir21.pdf)
 
 
