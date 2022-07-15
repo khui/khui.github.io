@@ -7,7 +7,7 @@ author_profile: true
 
 
 ## Program Committee
-1. **2022**: SIGIR, EMNLP, CIKM, AAAI, WSDM, ACL (ARR), ACM KDD, WSDM
+1. **2022**: SIGIR, EMNLP, CIKM, AAAI, WSDM, ACL (ARR), ACM KDD
 2. **2021**: SIGIR, ACL, EMNLP, AAAI, CIKM, ACM KDD (Applied Data Science Track), WSDM, NAACL-HLT, EACL
 3. **2020**: SIGIR, ACL, EMNLP, AAAI, CIKM, ICTIR, AACL-IJCNLP
 4. **2019**: SIGIR, ACL, EMNLP
