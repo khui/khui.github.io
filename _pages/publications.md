@@ -10,13 +10,13 @@ Conference Papers
 ======
 <b> [ED2LM: Encoder-Decoder to Language Model for Faster Document Re-ranking Inference]()</b> <br>
 <b> Hui, Kai</b>,  Honglei Zhuang, Tao Chen, Zhen Qin, Jing Lu, Dara Bahri, Ji Ma, Jai Gupta, Cicero Nogueira dos Santos, Yi Tay, Donald Metzler<br>
-<i> in ACL: Findings 2022 (to appear) </i> <br>
+<i> in ACL: Findings 2022 </i> <br>
 [[PDF]](https://khui.github.io/files/publications/CRM_EDLM_final_r1.pdf)
 
 
 <b> [Incorporating Ranking Context for End-to-End BERT Re-ranking]()</b> <br>
 Xiaoyang Chen, <b> Hui, Kai</b>, Ben He, Xianpei Han, Le Sun, Zheng Ye<br>
-<i> in ECIR 2022 (to appear) </i> <br>
+<i> in ECIR 2022 </i> <br>
 [[PDF]](https://khui.github.io/files/publications/cobert_ecir22.pdf)
 
 
@@ -27,7 +27,7 @@ Yi Tay, Vinh Q Tran, Mostafa Dehghani, Jianmo Ni, Dara Bahri, Harsh Mehta, Zhen 
 
 <b> [Ext5: Towards extreme multi-task scaling for transfer learning]()</b> <br>
 Vamsi Aribandi, Yi Tay, Tal Schuster, Jinfeng Rao, Huaixiu Steven Zheng, Sanket Vaibhav Mehta, Honglei Zhuang, Vinh Q. Tran, Dara Bahri, Jianmo Ni, Jai Gupta, <b>Hui, Kai</b>, Sebastian Ruder, Donald Metzler<br>
-<i> in ICLR 2022 (to appear) </i> <br>
+<i> in ICLR 2022 </i> <br>
 [[PDF]](https://openreview.net/pdf?id=Vzh1BFUCiIX)
 
 <b> [Question Answering using Web Lists]()</b> <br>
