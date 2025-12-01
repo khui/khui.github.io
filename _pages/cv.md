@@ -19,8 +19,8 @@ Education
 
 Work Experience
 ======
-* 2024.05 - present: Staff Research Scientist, Google DeepMind
-* 2021.07 - 2024.04: Senior Rsearch Software Engineer, Google Research
+* 2024.05 - present: Research Scientist, Google DeepMind
+* 2021.07 - 2024.04: Senior Research Software Engineer, Google Research
 * 2019.04 - 2021.06: Machine Learning Scientist, Amazon Alexa AI
 * 2017.11 - 2019.03: Data Scientist, Cluster of Excellence for Deep Learning in SAP SE
 * 2013.07 - 2017.10: Doctoral Researcher, Department of Databases and Information Systems (D5) at MPII
