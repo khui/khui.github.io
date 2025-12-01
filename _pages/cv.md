@@ -19,14 +19,18 @@ Education
 
 Work Experience
 ======
-* 2024.05 - present: Research Scientist, Google DeepMind
-* 2021.07 - 2024.04: Senior Research Software Engineer, Google Research
-* 2019.04 - 2021.06: Machine Learning Scientist, Amazon Alexa AI
-* 2017.11 - 2019.03: Data Scientist, Cluster of Excellence for Deep Learning in SAP SE
-* 2013.07 - 2017.10: Doctoral Researcher, Department of Databases and Information Systems (D5) at MPII
-* 2014.10 - 2015.02: Teaching Assistant, Saarland University
-* 2012.01 - 2012.07: Research Intern, Microsoft Research Asia
+* 2024 - present: Research Scientist, Google DeepMind
+* 2021 - 2024: Senior Research Software Engineer, Google Research
+* 2019 - 2021: Machine Learning Scientist, Amazon Alexa AI
+* 2017 - 2019: Data Scientist, Cluster of Excellence for Deep Learning in SAP SE
+* 2013 - 2017: Doctoral Researcher, Department of Databases and Information Systems (D5) at MPII
+* 2014 - 2015: Teaching Assistant, Saarland University
+* 2012: Research Intern, Microsoft Research Asia
 
+
+CV
+======
+[PDF](https://khui.github.io/files/cv/khui_cv_202512.pdf)
 
 
   
