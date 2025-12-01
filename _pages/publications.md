@@ -6,8 +6,26 @@ author_profile: true
 ---
 
 
-Conference Papers
+Selected Papers
 ======
+<b> [Can Pre-training Indicators Reliably Predict Fine-tuning Outcomes of LLMs?]()</b> <br>
+Hansi Zeng, <b>Hui, Kai</b>, Honglei Zhuang, Zhen Qin, Zhenrui Yue, Hamed Zamani, Dana Alon
+<i> arXiv preprint </i> <br>
+[[PDF]](https://arxiv.org/pdf/2504.12491?)
+
+
+<b> [Large Language Models are Effective Text Rankers with Pairwise Ranking Prompting]()</b> <br>
+Zhen Qin, Rolf Jagerman, <b>Hui, Kai</b>, Honglei Zhuang, Junru Wu, Le Yan, Jiaming Shen, Tianqi Liu, Jialu Liu, Donald Metzler, Xuanhui Wang, Michael Bendersky
+<i> in NAACL: 2024 </i> <br>
+[[PDF]](https://aclanthology.org/2024.findings-naacl.97.pdf)
+
+
+<b> [GECKO: Versatile Text Embeddings Distilled from Large Language Models]()</b> <br>
+Jinhyuk Lee, Zhuyun Dai, Xiaoqi Ren, Blair Chen, Daniel Cer, Jeremy R Cole, <b>Hui, Kai</b>, Michael Boratko, Rajvi Kapadia, Wen Ding, Yi Luan, Sai Meher Karthik Duddu, Gustavo Hernandez Abrego, Weiqiang Shi, Nithi Gupta, Aditya Kusupati, Prateek Jain, Siddhartha Reddy Jonnalagadda, Ming-Wei Chang, Iftekhar Naim
+<i> arXiv preprint </i> <br>
+[[PDF]](https://arxiv.org/pdf/2403.20327?)
+
+
 <b> [ED2LM: Encoder-Decoder to Language Model for Faster Document Re-ranking Inference]()</b> <br>
 <b> Hui, Kai</b>,  Honglei Zhuang, Tao Chen, Zhen Qin, Jing Lu, Dara Bahri, Ji Ma, Jai Gupta, Cicero Nogueira dos Santos, Yi Tay, Donald Metzler<br>
 <i> in ACL: Findings 2022 </i> <br>
@@ -121,7 +139,6 @@ Y. Ran, B. He, <b>Hui, Kai</b>, J. Xu, and L. Sun <br>
 [[PDF]](https://khui.github.io/files/publications/ictir17-short.pdf) [[Poster]](https://khui.github.io/files/slides/ictir17poster.pdf)
 
 
-
 <b> [Cluster Hypothesis in Low-Cost IR Evaluation with Different Document Representations]()</b> <br>
 <b>Hui, Kai</b> and K. Berberich <br>
 <i> in WWW 16 (Poster) </i> <br>
@@ -137,7 +154,6 @@ Y. Ran, B. He, <b>Hui, Kai</b>, J. Xu, and L. Sun <br>
 <i> in ECIR 2013 </i> <br>
 [[PDF]](https://khui.github.io/files/publications/sponsorsearchAdSelection-ecir13.pdf) [[Slide]](https://khui.github.io/files/slides/sponsorsearchAdSelection-ecir13.pdf)
 
-
 <b> [Relevance weighting using within-document term statistics]()</b> <br>
 <b>Hui, Kai</b>, B. He, T. Luo, and B. Wang <br>
 <i> in CIKM 2011 (Short paper) </i> <br>
@@ -152,37 +168,6 @@ Y. Ran, B. He, <b>Hui, Kai</b>, J. Xu, and L. Sun <br>
 X. Zhang, <b>Hui, Kai</b>, B. He, T. Luo <br>
 <i> in TREC 2011 </i> <br>
 
-Workshop Papers
-=====
-<b> [Overcoming Low-Utility Facets for Complex Answer Retrieval]()</b> <br>
-S. MacAvaney, A. Yates, A. Cohan, L. Soldaini, <b>Hui, Kai</b>, N. Goharian, and O. Frieder <br>
-<i> in ProfS/KG4IR/Data:Search@SIGIR 2018 </i> <br>
-[[PDF]](http://ceur-ws.org/Vol-2127/paper1-kg4ir.pdf)
-
-<b> [An Approach for Weakly-Supervised Deep Information Retrieval]()</b> <br>
-S. MacAvaney, <b> Hui, Kai</b>, and A. Yates <br>
-<i> in Neu-IR 17 Workshop at SIGIR 2017 </i> <br>
-[[PDF]](https://arxiv.org/pdf/1707.00189v1.pdf)
-
-<b> [RE-PACRR: A Context and Density-Aware Neural Information Retrieval Model]()</b> <br>
-<b> Hui, Kai</b>, A. Yates, K. Berberich and G. de Melo<br>
-<i> in Neu-IR 17 Workshop at SIGIR 2017 </i> <br>
-[[PDF]](https://arxiv.org/pdf/1706.10192v1.pdf) [[Slide]](https://khui.github.io/files/slides/repacrr-neuir17.pdf)
-
-
-<b> [DE-PACRR: Exploring Layers Inside the PACRR Model]()</b> <br>
-A. Yates and <b> Hui, Kai</b> <br>
-<i> in Neu-IR 17 Workshop at SIGIR 2017 </i> <br>
-[[PDF]](https://arxiv.org/pdf/1706.08746.pdf)
-
-<b> [Towards Robust & Reusable Evaluation for Novelty & Diversity]()</b> <br>
-<b> Hui, Kai</b> <br>
-<i> in PIKM@CIKM 2014 </i> <br>
-[[PDF]](https://khui.github.io/files/publications/diversificationLowCostEval-pikm2014.pdf) [[Slide]](https://khui.github.io/files/slides/pikm.pdf)
-
-
-Journal Papers
-======
 <b> [Contextualized query expansion via unsupervised chunk selection for text retrieval]()</b> <br>
 Z. Zheng, <b> Hui, Kai</b>, B. He, X. Han, L. Sun, and A. Yates <br>
 <i> Information Processing & Management, 2021</i> <br>
