@@ -26,6 +26,12 @@ Jinhyuk Lee, Zhuyun Dai, Xiaoqi Ren, Blair Chen, Daniel Cer, Jeremy R Cole, <b>H
 [[PDF]](https://arxiv.org/pdf/2403.20327?)
 
 
+<b> [How Does Generative Retrieval Scale to Millions of Passages?]()</b> <br>
+Ronak Pradeep, <b>Hui, Kai</b>, Jai Gupta, Ádám Dániel Lelkes, Honglei Zhuang, Jimmy Lin, Donald Metzler, Vinh Q. Tran
+<i> in EMNLP: 2023 </i> <br>
+[[PDF]](https://aclanthology.org/2023.emnlp-main.83.pdf)
+
+
 <b> [ED2LM: Encoder-Decoder to Language Model for Faster Document Re-ranking Inference]()</b> <br>
 <b> Hui, Kai</b>,  Honglei Zhuang, Tao Chen, Zhen Qin, Jing Lu, Dara Bahri, Ji Ma, Jai Gupta, Cicero Nogueira dos Santos, Yi Tay, Donald Metzler<br>
 <i> in ACL: Findings 2022 </i> <br>
