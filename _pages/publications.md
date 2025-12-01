@@ -16,7 +16,7 @@ Hansi Zeng, <b>Hui, Kai</b>, Honglei Zhuang, Zhen Qin, Zhenrui Yue, Hamed Zamani
 
 <b> [Large Language Models are Effective Text Rankers with Pairwise Ranking Prompting]()</b> <br>
 Zhen Qin, Rolf Jagerman, <b>Hui, Kai</b>, Honglei Zhuang, Junru Wu, Le Yan, Jiaming Shen, Tianqi Liu, Jialu Liu, Donald Metzler, Xuanhui Wang, Michael Bendersky
-<i> in NAACL: 2024 </i> <br>
+<i> in NAACL: Findings 2024 </i> <br>
 [[PDF]](https://aclanthology.org/2024.findings-naacl.97.pdf)
 
 
