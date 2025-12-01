@@ -32,6 +32,12 @@ Ronak Pradeep, <b>Hui, Kai</b>, Jai Gupta, Ádám Dániel Lelkes, Honglei Zhuang
 [[PDF]](https://aclanthology.org/2023.emnlp-main.83.pdf)
 
 
+<b> [Transformer Memory as a Differentiable Search Index]()</b> <br>
+Yi Tay, Vinh Q Tran, Mostafa Dehghani, Jianmo Ni, Dara Bahri, Harsh Mehta, Zhen Qin, <b> Hui, Kai</b>, Zhe Zhao, Jai Gupta, Tal Schuster, William W Cohen, Donald Metzler<br>
+<i> in 	NeurIPS: 2022 </i> <br>
+[[PDF]](https://proceedings.neurips.cc/paper_files/paper/2022/file/892840a6123b5ec99ebaab8be1530fba-Paper-Conference.pdf)
+
+
 <b> [ED2LM: Encoder-Decoder to Language Model for Faster Document Re-ranking Inference]()</b> <br>
 <b> Hui, Kai</b>,  Honglei Zhuang, Tao Chen, Zhen Qin, Jing Lu, Dara Bahri, Ji Ma, Jai Gupta, Cicero Nogueira dos Santos, Yi Tay, Donald Metzler<br>
 <i> in ACL: Findings 2022 </i> <br>
@@ -40,14 +46,9 @@ Ronak Pradeep, <b>Hui, Kai</b>, Jai Gupta, Ádám Dániel Lelkes, Honglei Zhuang
 
 <b> [Incorporating Ranking Context for End-to-End BERT Re-ranking]()</b> <br>
 Xiaoyang Chen, <b> Hui, Kai</b>, Ben He, Xianpei Han, Le Sun, Zheng Ye<br>
-<i> in ECIR 2022 </i> <br>
+<i> in ECIR: 2022 </i> <br>
 [[PDF]](https://khui.github.io/files/publications/cobert_ecir22.pdf)
 
-
-<b> [Transformer Memory as a Differentiable Search Index]()</b> <br>
-Yi Tay, Vinh Q Tran, Mostafa Dehghani, Jianmo Ni, Dara Bahri, Harsh Mehta, Zhen Qin, <b> Hui, Kai</b>, Zhe Zhao, Jai Gupta, Tal Schuster, William W Cohen, Donald Metzler<br>
-<i> arXiv preprint</i> <br>
-[[PDF]](https://arxiv.org/pdf/2202.06991.pdf)
 
 <b> [Ext5: Towards extreme multi-task scaling for transfer learning]()</b> <br>
 Vamsi Aribandi, Yi Tay, Tal Schuster, Jinfeng Rao, Huaixiu Steven Zheng, Sanket Vaibhav Mehta, Honglei Zhuang, Vinh Q. Tran, Dara Bahri, Jianmo Ni, Jai Gupta, <b>Hui, Kai</b>, Sebastian Ruder, Donald Metzler<br>
