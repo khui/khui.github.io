@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, Saarland University and Max-Planck-Institute for Informatics (MPII), Germany
+* Ph.D. in Computer Science, Saarland University and Max-Planck-Institute for Informatics (MPII), Germany
 * M.Sc. in Computer Science, University of Chinese Academy of Sciences, Beijing, China
 * B.Sc. in Management Science, Beijing Jiaotong University, Beijing, China
 
